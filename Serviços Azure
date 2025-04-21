@@ -1,0 +1,55 @@
+## Explorando os serviços básicos da Azure (como iniciante)
+
+Durante meu aprendizado com o Microsoft Azure, percebi que, no começo, tudo pode parecer um pouco confuso. São muitos nomes, serviços e opções — mas aos poucos fui entendendo que tudo tem seu lugar e propósito.
+
+Aqui estão alguns dos **serviços mais básicos e importantes** que comecei a explorar, junto com minhas anotações de iniciante para ajudar quem também está começando:
+
+### 1. Azure Portal
+
+- É a **interface gráfica da Azure**, onde você consegue visualizar e criar todos os seus recursos (máquinas, bancos de dados, redes, etc).
+- Dica: use a barra de pesquisa no topo para encontrar rapidamente o serviço que você quer usar.
+
+### 2. Máquinas Virtuais (Virtual Machines - VM)
+
+- Uma VM funciona como um computador na nuvem. Você escolhe o sistema operacional, configura os recursos (memória, CPU, disco) e acessa remotamente.
+- Ideal para aprender Linux, hospedar pequenos testes ou até simular ambientes reais de trabalho.
+
+### 3. Azure Storage
+
+- Armazenamento em nuvem para arquivos, imagens, backups, logs e mais.
+- O **Blob Storage** é muito usado para armazenar arquivos não estruturados (como fotos, vídeos ou arquivos .zip).
+
+### 4. Azure App Service
+
+- É um serviço para hospedar **aplicações web**, APIs ou backends de forma prática e com escalabilidade automática.
+- Ideal para quem desenvolve em Python, .NET, Node.js, Java ou PHP.
+
+### 5. Banco de Dados (Azure SQL Database)
+
+- Um banco de dados relacional que funciona como o SQL Server, mas totalmente gerenciado.
+- Ótimo para quem está aprendendo sobre banco de dados e quer praticar sem precisar instalar nada no PC.
+
+### 6. Azure Functions
+
+- Permite criar pequenos pedaços de código (funções) que rodam sob demanda, sem precisar de servidor ativo 24h.
+- Muito útil para automações, tarefas agendadas ou integrações simples.
+
+### 7. Azure DevOps (ou GitHub Actions com Azure)
+
+- Ferramentas para automatizar deploys, testar aplicações e gerenciar repositórios.
+- Ainda estou começando a entender, mas percebi que é essencial para quem quer seguir na área de desenvolvimento e cloud.
+
+---
+
+### Dicas como iniciante
+
+- Não tente aprender tudo de uma vez. Comece explorando os serviços aos poucos.
+- Use a documentação oficial da Microsoft — ela é completa e tem muitos tutoriais com passo a passo.
+- A maioria dos serviços tem **camada gratuita** ou **créditos gratuitos iniciais**, o que ajuda bastante na prática.
+- Salve seus aprendizados em arquivos `.md` e organize por temas, assim fica fácil revisar depois.
+
+---
+
+Essa jornada ainda está só começando, mas aprender a "ler" a Azure com calma me ajudou a perder o medo da nuvem.  
+Espero que essas anotações te ajudem também!
+
